@@ -35,7 +35,7 @@ body {
   flex-direction: column;
 
   border-radius: 2rem;
-  background-image: url("/assets/backgroungRey.svg");
+  background-image: url("./assets/backgroungRey.svg");
   z-index: -2;
 
   box-shadow: 0px 294px 118px rgba(0, 0, 0, 0.03), 0px 165px 99px rgba(0, 0, 0, 0.1), 0px 73px 73px rgba(0, 0, 0, 0.17), 0px 18px 40px rgba(0, 0, 0, 0.2), 0px 0px 0px rgba(0, 0, 0, 0.2);
